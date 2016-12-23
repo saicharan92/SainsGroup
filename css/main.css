@@ -1,0 +1,27 @@
+body {
+    background-color:#18BC9C;
+}
+.heading{
+    font-family: Montserrat,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 700;
+	color:white;
+    font-size:6rem;
+    text-align:center;
+    text-decoration:underline;
+	margin:5% 0;
+}
+.homeIndex{
+    text-decoration:underline;
+   color:white;
+   text-align:center;
+
+}
+.headers{
+	 font-family: Montserrat,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 700;
+	color:white;
+    font-size:3rem;
+    text-align:center;
+    text-decoration:underline;
+	
+}
